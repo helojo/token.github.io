@@ -1,0 +1,232 @@
+[
+  {
+    "name": "Seedance 2.5",
+    "desc": "Seedance 2.5 API 现已在 Atlas Cloud 上线！它为开发者提供了 ByteDance 最新的视频模型。该模型可通过文本、单张图像或多达 50 个多模态参考，一次性生成长达 30 秒的原生视频，并包含同步音频和画面内的多语言文本。在 Atlas Cloud 上，您可以通过单个密钥访问它，其主体一致性和改进的物理特性能够保持长镜头的连贯性。",
+    "file": "families/77ca02dd-6744-4da2-9b06-fef9e3cf3f66.png.png"
+  },
+  {
+    "name": "Wan 3.0",
+    "desc": "Wan 3.0 API 是阿里巴巴 Wan 视频系列的下一代产品，旨在将长视频生成、多参考控制和音视频质量推向新的高度。Atlas Cloud 已经托管了 Wan 2.7、2.6 和 2.5，而 Wan 3.0 使用相同的统一密钥运行，无需额外设置。立即开始构建吧。向下滚动至展示区，查看 Wan 3.0 的创作能力。",
+    "file": "families/917fb56c-004f-4a78-b995-6e87a16598a8.png.png"
+  },
+  {
+    "name": "MiniMax H3",
+    "desc": "MiniMax H3 是 MiniMax 的多模态视频系列，支持文本、图像和参考内容引导创作。在支持的路由中，它能够保留参考媒体中的主体，提供灵活的宽高比，并通过 H3 Developer 将生成的声音与画面结合；输出配置则由 endpoint 选择。Atlas Cloud 通过一个 OpenAI 兼容密钥统一接入整个系列，并提供透明的按量付费定价，标准费率为每秒 $0.038。立即开始构建。",
+    "file": "families/0ecaf289-ee00-48af-8e80-852529344ee8.png.png"
+  },
+  {
+    "name": "Seedance 2.0",
+    "desc": "Seedance 2.0 是 ByteDance 面向生产环境的视频模型，专用于精准镜头创作。将提示词转换为视频，使用首帧图像生成动画并可选用尾帧引导，或结合参考媒体和可选的联网搜索来塑造结果。Atlas Cloud 将这些工作流整合到统一的 API 中，提供透明的按量付费定价和一个兼容 OpenAI 的密钥。立即开始构建。",
+    "file": "families/95e2160e-febc-4c37-84c4-0a36d007c3f1.png.png"
+  },
+  {
+    "name": "Gemini Omni Flash",
+    "desc": "Gemini Omni 是 Google DeepMind 原生多模态视频系列，支持通过提示词引导创作与编辑。可从文本生成视频、让静态图像动起来，或在可选视觉参考的辅助下修改现有素材，同时保留未改动的内容。灵活的分辨率、宽高比和时长控制，满足多样化的制作流程。Atlas Cloud 通过透明的按需付费定价模式，统一提供访问能力。立即开始构建。",
+    "file": "families/43cd4205-d5d4-46c0-8442-d87fb6af6ff9.png.png"
+  },
+  {
+    "name": "Seedance 2.0 Mini",
+    "desc": "Seedance 2.0 Mini 将 ByteDance 的多模态视频生成技术引入到对速度和成本要求极高的工作流中。它以更轻量的占用空间提供 Seedance 2.0 的核心能力——更快的生成速度、更低的单条视频成本，并且使用您现有的同款 API 集成。对于运行高吞吐量流水线或进行大规模原型设计的团队来说，Mini 是最实用的默认选择。",
+    "file": "families/515923d3-efa9-45bf-9a0c-0700de1e26dc.png.png"
+  },
+  {
+    "name": "Suno Chirp",
+    "desc": "Suno Chirp API 通过一个密钥为开发者提供 Atlas Cloud 上的 Suno 音乐生成模型。通过文本提示词和可选歌词，它能生成一首包含人声和乐器的完整歌曲，每次请求返回两个版本，并提供纯音乐和多语言选项。产品系列涵盖 Chirp V6、V6 Wild 与 V6 Mini，按次生成计费，价格从 0.132 美元起。",
+    "file": "families/d9bdc676-b436-4c9e-9581-4c37a94c6deb.png.png"
+  },
+  {
+    "name": "Wan 2.7",
+    "desc": "Wan 2.7 API 为开发者提供了阿里巴巴的一站式视频套件，涵盖文生视频、图生视频、参考生视频和视频编辑，外加图像生成功能。它可生成长达15秒、带同步音频的原生1080p视频片段，支持首尾帧控制以及多达5个角色参考。（有关原生30秒视频和多达20个混合参考的更多信息，请参阅最新的 [Wan 3.0 API 页面](https://www.atlascloud.ai/models/wan-3.0)。）",
+    "file": "families/9c805eb7-989a-4d83-84e5-f7aa494bdd1e.png.png"
+  },
+  {
+    "name": "Seedream 4.7",
+    "desc": "ByteDance 的 Seedream 4.7 API 将文生图生成、精准编辑和连续图像工作流统一在同一系列中。它能够遵循指令，同时保留源图像中的主体身份、光照和局部结构，并可在单次请求中生成连贯的图像集。通过一个兼容 OpenAI 的 Atlas Cloud 密钥，即可使用全部四个变体，并享受透明的按量付费定价。立即开始构建。",
+    "file": "families/47794cbf-d0ff-4624-8061-986bc50343f0.png.png"
+  },
+  {
+    "name": "Midjourney 8.2",
+    "desc": "Midjourney 8.2 通过 Atlas Cloud 将 Midjourney 的图像与视频创作全系列能力带给开发者。支持文本生成、重新构想或重绘现有图像、混合 2 至 5 个输入、移除背景，或将一张图像制作成 4 个 5 秒的 480p 或 720p 短片。通过一个兼容 OpenAI 的密钥，即可访问所有工作流，并享受透明的按量付费定价和可靠的服务可用性。立即开始构建。",
+    "file": "families/259d7ff7-96c7-40d6-aa5f-fc361ae1955b.png.png"
+  },
+  {
+    "name": "Happyhorse 1.1",
+    "desc": "HappyHorse 1.1 是阿里巴巴面向开发者的视频生成模型系列，支持从文本、源帧或视觉参考生成视频。它可以将提示词转化为视频片段，基于可选引导对指定首帧进行动画处理，还支持使用 1 至 9 张参考图像进行精准的视觉控制。Atlas Cloud 将这些工作流整合到一次接入中，并提供透明的按量付费定价。立即开始构建。",
+    "file": "families/05d5d872-6252-4e27-8926-468b566f5e9b.png.png"
+  },
+  {
+    "name": "Gemini Omni 1.1 Flash",
+    "desc": "Gemini Omni 1.1 Flash 是 Google DeepMind 推出的原生多模态视频系列，适用于灵活的生产工作流。通过文本指令编辑现有素材，借助最多 10 张参考图像和 3 段视频片段保持视觉一致性，或以可串联的片段延长镜头，最长可达 40 秒。在 Atlas Cloud 上使用一个 OpenAI-compatible API key 即可访问所有工作流，按量付费，并支持 Day-0 上线。立即开始构建。",
+    "file": "families/83f63144-ab56-4ada-922f-46977d75e32d.png.png"
+  },
+  {
+    "name": "Veo 3.1 Lite",
+    "desc": "Veo 3.1 Lite 是 Google 面向开发者推出的视频模型系列，适用于构建可规模化的生产流水线。根据所使用的 endpoint，您可以选择灵活的时长选项，在指定的首帧和末帧之间生成 8 秒过渡视频，或以常见宽高比生成视频。Atlas Cloud 通过一个 OpenAI 兼容的密钥提供这些能力，采用透明的按需付费定价，并简化 API 访问流程。立即开始构建。",
+    "file": "families/be8c0f48-ac10-4fbe-bf7f-8f9c3e920f97.png.png"
+  },
+  {
+    "name": "Veo 3.1 Fast",
+    "desc": "Veo 3.1 Fast 是 Google 专注速度的视频生成系列，专为响应迅速的生产流程和快速创意迭代而打造。其提示词和关键帧工作流在实现流畅、生动运动的同时，保持出色的视觉保真度。Atlas Cloud 提供 Day-0 访问权限、统一密钥、透明的按量付费定价，以及经验证的标准基础价格 $0.08。立即开始构建。",
+    "file": "families/fffa995a-ed98-4889-84b0-182ce1b860c4.png.png"
+  },
+  {
+    "name": "Nano Banana 2.1",
+    "desc": "Nano Banana 2.1 是 Google 基于 Gemini 3.6 Flash 打造的图像模型系列。它以 Flash 级速度提供 Pro 级生成与编辑能力，支持通过自然语言对 1 到 14 张输入图像进行编辑和融合，并可保持最多 4 个角色和 10 个对象的一致性。通过 Atlas Cloud，开发者只需使用一个 OpenAI-compatible 密钥，即可访问该系列模型，享受可靠的运行时间保障和 Day-0 可用性。立即开始构建。",
+    "file": "families/d635da49-b4f2-481f-aa4e-1244a149c292.png.png"
+  },
+  {
+    "name": "Kling 2.0",
+    "desc": "Kling 2.0 是快手的视频生成模型系列，支持文生视频和图生视频创作。其 Master 模型将高保真画面与精细光照和逼真镜头表现相结合，为开发者提供两种专注的工作流，帮助他们将提示词或源图像转化为精美视频片段。在 Atlas Cloud 上，开发者只需使用一个兼容 OpenAI 的密钥，即可访问这两个模型，并享受 Day-0 可用性和简便的集成体验。立即开始构建。",
+    "file": "families/58c4c14f-f7c6-49f9-8b85-e20e00b7c8d1.png.png"
+  },
+  {
+    "name": "Kling 2.1",
+    "desc": "Kling v2.1 是 Kuaishou 面向开发者打造生产级视频工作流的 AI 视频模型系列。该系列支持快速 720p 草稿生成、清晰流畅的图像动画、专业级视觉深度、复杂提示词理解、先进的运动逻辑，以及增强的动态镜头渲染。通过 Atlas Cloud 的统一 API，使用一个 OpenAI 兼容密钥即可访问这些能力，并享有 Day-0 模型可用性。立即开始构建。",
+    "file": "families/a8e3ec54-df3a-4841-8e51-779e5638da74.png.png"
+  },
+  {
+    "name": "Kling 2.5 Turbo Pro",
+    "desc": "Kling v2.5 Turbo Pro 是快手推出的视频生成模型，可将提示词和源图像转换为精良的视频片段。它具备电影级的运动精度和增强的时间稳定性，即使主体和摄像机移动，也能帮助场景保持连贯。Atlas Cloud 通过统一 API 提供这两种生成模式，采用透明的按量付费定价，并配备一个兼容 OpenAI 的密钥。立即开始构建。",
+    "file": "families/69e77d25-a311-4b12-b272-bf52a47b7413.png.png"
+  },
+  {
+    "name": "Kling 2.6",
+    "desc": "Kling v2.6 是快手的视频模型系列，支持电影级文生视频和图生视频创作、AI 数字人以及基于参考内容的运动迁移。它支持灵活的画面比例、更丰富的动态效果、稳定的主体身份和跨专业工作流的时间一致性。Atlas Cloud 通过统一的端点提供 Pro 和 Standard 选项，并采用透明的按量付费定价。立即开始构建。",
+    "file": "families/85b710a7-0171-4738-ae21-d8ad4b76e9cd.png.png"
+  },
+  {
+    "name": "Kling 3.0 Turbo",
+    "desc": "Kling V3.0 Turbo 是快手基于 MVL 技术打造的视频生成系列，面向希望创建动态电影感视频片段的开发者。专用 endpoint 可针对每种支持的模式，将创意输入转化为生成视频，提供清晰聚焦的工作流。在 Atlas Cloud 上，使用一个 OpenAI 兼容密钥、透明的按需付费定价和直接 API 访问，即可简化从原型到生产环境的集成。立即开始构建。",
+    "file": "families/0970ae0d-4518-44f8-88c5-74210900654a.png.png"
+  },
+  {
+    "name": "Kling o1",
+    "desc": "Kling O1 是快手基于多模态视觉语言技术打造的视频模型系列。其文生视频和图生视频工作流将语言与视觉上下文相结合，根据提示词或源图像生成连贯的场景动态。Atlas Cloud 通过开箱即用的 REST API 提供这两种模式，无冷启动，并采用透明的按量付费定价。立即开始构建。",
+    "file": "families/fa7b0a54-2cb6-48a6-bc09-e86e6b4b8923.png.png"
+  },
+  {
+    "name": "Seedream 5.0 Flash",
+    "desc": "Seedream v5.0 Flash 是 ByteDance 面向图像生成、编辑和结构化资产提取的图像模型系列。其图层分解 endpoint 可将一张图片拆分为一个基础图像和最多 16 个按顺序排列的 PNG 图层，并提供边界框、名称、描述和 z-index 数据。Atlas Cloud 通过三个专用 endpoint 提供按量付费的访问服务，已验证的标准基础价格为 $0.018。立即开始构建。",
+    "file": "families/258e8c3c-bbc1-4fd6-ba06-f3f7f1290a81.png.png"
+  },
+  {
+    "name": "Grok Imagine Video 1.5",
+    "desc": "Grok Imagine Video 1.5 是 xAI 面向开发者推出的视频生成系列，适合需要根据提示词和视觉输入实现可控运动效果的场景。使用自然语言运动指令为起始帧添加动画，在参考工作流中选择 480p 或 720p，并添加可选的参考语音来引导生成结果。通过一个兼容 OpenAI 的 Atlas Cloud 密钥访问受支持的模式，享受透明的按量付费定价。立即开始构建。",
+    "file": "families/7888f107-eeb0-4226-9016-7187ee354d88.png.png"
+  },
+  {
+    "name": "Grok Imagine Video",
+    "desc": "Grok Imagine Video 为开发者提供访问 xAI 视频模型家族的能力，用于创建、制作动画、延展和编辑视频片段。通过提示词生成 1 至 15 秒的视频，使用最多 7 张参考图像引导人物、物体或风格，并支持 480p 或 720p。Atlas Cloud 通过兼容 OpenAI 的端点整合这些能力，并提供透明的按需付费定价。立即开始构建。",
+    "file": "families/e6976e67-43d6-4e67-b5f7-77503c226351.png.png"
+  },
+  {
+    "name": "MiniMax H3 Max",
+    "desc": "MiniMax H3 Max from MiniMax 可生成电影感视频，并在将源图像制作成动画时支持可选的尾帧引导，让开发者更精细地控制每个镜头的收束效果。Atlas Cloud 通过兼容 OpenAI 的 API 提供按需付费访问，H3 Max 的标准价格为 $0.05 per second，Turbo 为 $0.025 per second。两个版本均按秒计费，价格透明。立即开始构建。",
+    "file": "families/958a29c6-1fee-4f0a-8389-08389aa74585.png.png"
+  },
+  {
+    "name": "MiniMax H3 Fast",
+    "desc": "MiniMax H3 Fast 是 MiniMax 面向提示词驱动的视频生成系列，支持电影感文生视频、可控制的首帧动画（可选末帧），以及能够保留源主体的参考图生视频片段。通过 Atlas Cloud 的统一 API，以每秒 $0.046 的标准按量付费价格访问整个工作流系列，只需一次集成即可覆盖全系列。立即开始构建。",
+    "file": "families/c2c47e84-03f1-464e-bee3-83d553df6320.png.png"
+  },
+  {
+    "name": "Nano Banana Pro",
+    "desc": "Nano Banana Pro 是 Google 新一代的 Nano Banana 图像模型，专为生产级视觉工作流打造。它能够生成细节更锐利、色彩控制更丰富且扩散速度更快的图像，同时专用编辑端点支持精准的 AI 驱动调整。通过 Atlas Cloud，开发者可以选择 Text-to-image、Edit、Ultra 或 Developer 端点，标准价格低至每次调用 $0.14。立即开始构建。",
+    "file": "families/5147f493-e92d-4bf3-920f-911922d63136.png.png"
+  },
+  {
+    "name": "FLUX 3",
+    "desc": "FLUX 3 API 将 Black Forest Labs 的最新基础模型引入你的技术栈，这是一套统一的 Self-Flow 架构，联合训练于图像、视频和音频。一次生成最长 20 秒的片段，支持多语言对白、音效和环境声；也可以生成文字转图像内容，并实现准确的排版效果。Atlas Cloud 通过一个兼容 OpenAI 的密钥提供服务，按次调用按量付费，并支持 Day-0 访问。",
+    "file": "families/50d3e02f-f898-4ad3-9923-36ebd88aa853.png.png"
+  },
+  {
+    "name": "VEED",
+    "desc": "Perfect for AI Avatar Video Creation",
+    "file": "families/0832c1c8-5e3a-4fb6-8f15-4866d39b3c77.png.png"
+  },
+  {
+    "name": "Youchuan",
+    "desc": "Youchuan API 现已覆盖 V8.1 和 V8.2 两代能力，涵盖静态图像与动态视频。由提示词驱动的模式一次返回四个变体，图像以原生 2K HD 渲染，无需上采样处理；混合模式最多可融合五个参考；单张静态图像可生成 480p 或 720p 的五秒视频片段。Atlas Cloud 通过一个兼容 OpenAI 的密钥提供服务，支持 Day-0 访问，按次调用计费低至 $0.086。立即开始构建。",
+    "file": "families/3add7429-729f-4e08-84d3-0405e49db3c4.png.png"
+  },
+  {
+    "name": "Seedream 5.0 Lite",
+    "desc": "Seedream 5.0 Lite API 将 ByteDance 推理优先的图像模型引入 Atlas Cloud。这是首个将实时网络搜索与视觉推理相结合的图像模型，使其生成过程基于实时信息和现实世界的物理规律，并支持原生编辑。在 Atlas Cloud 上，只需一个兼容 OpenAI 的密钥即可运行，单张图像价格低至 0.032 美元，并支持最多 15 帧连贯图像的序列输出。",
+    "file": "families/da8e3ea6-1a1b-4166-8a37-14b956761219.png.png"
+  },
+  {
+    "name": "Kling V3.0",
+    "desc": "Kling 3.0 API 通过一个 OpenAI 兼容的密钥，将 Kuaishou 的旗舰视频套件引入 Atlas Cloud。它包含两个模型：Kling 3.0 用于 AI Director 叙事、多语言唇形同步和精准的屏幕文本；Kling 3.0 Omni (O3) 用于通过短视频或图像进行主体和声音克隆。两者都能在同一次处理中生成原生音频，最高支持 4K 输出。在可靠的基础设施上构建电影级叙事、全球营销、多语言广告和系列化角色内容。",
+    "file": "families/676705d5-2beb-46e5-8148-362a76c07d3c.png.png"
+  },
+  {
+    "name": "Avatar Omni Human 1.5",
+    "desc": "",
+    "file": "families/58285252-4be5-4bd9-9112-1e668410744a.png.png"
+  },
+  {
+    "name": "Seedream 4.5",
+    "desc": "Seedream 4.5 API 通过单一端点为开发者带来 ByteDance 最新的图像模型。它将 4K 文本生成图像与基于参考的编辑结合在一起，能够渲染出准确的排版，并在最多10张参考图像中保持主体一致。Atlas Cloud 通过兼容 OpenAI 的 API 提供该服务，具有可靠的正常运行时间和透明的定价（每张图像 0.04 美元），无需订阅。",
+    "file": "families/a7146f15-6aae-48e5-aec3-7dc6df27b8b5.png.png"
+  },
+  {
+    "name": "Nano Banana",
+    "desc": "Nano Banana 通过 Atlas Cloud 将 Google 的 Gemini 图像生成与编辑模型带给开发者。您可以根据文本创建视觉内容或修改现有图像，并以 PNG 或 JPEG 格式输出，支持正方形、竖版、横版和超宽版布局。可选的 Base64 输出支持 API 工作流。Atlas Cloud 还提供兼容 OpenAI 的接口、Day-0 访问权限，以及透明的按使用量付费定价。立即开始构建。",
+    "file": "families/74b8012a-1e04-4e1e-b910-8e115ba4c285.png.png"
+  },
+  {
+    "name": "Hailuo 2.3",
+    "desc": "由 MiniMax 打造的 Hailuo 2.3，将专业级视频生成能力带入创意与制作工作流。Standard 和 Pro 在可靠的提示词遵循能力基础上，提供先进的运动表现、逼真的物理效果、电影级视觉效果、细致的场景演变和连贯的角色表现；Fast 则支持快速迭代。Atlas Cloud 提供全部五个变体，并采用透明的按量付费定价。立即开始构建。",
+    "file": "families/2a98d8ad-58a9-46fd-84e2-3a067ff2542c.png.png"
+  },
+  {
+    "name": "Wan 2.6",
+    "desc": "Wan 2.6 API 用一个提示词构建多镜头故事,而非单个片段。阿里巴巴的叙事引擎在镜头之间以连贯的转场切换,同时在整个场景中保持角色身份、声音和风格的稳定一致。它涵盖文生视频、图生视频和参考生视频,输出 1080p,带同步音频和多语言唇形同步。在 Atlas Cloud 上通过一个密钥即可使用,与 300 多个模型并列。",
+    "file": "families/0a2b5a2a-6fda-4364-851b-078a9e3027de.png.png"
+  },
+  {
+    "name": "Seedance 1.5 Pro",
+    "desc": "Seedance 1.5 Pro API brings ByteDance's audio-video model to developers through one endpoint. It generates video with synchronized native audio and multilingual lip sync, follows cinematic camera moves such as pans, orbits, and zooms, and keeps characters consistent across 4 to 12 second clips. Atlas Cloud serves both text-to-video and image-to-video with reliable uptime and transparent pricing from $0.018 per second.",
+    "file": "families/43469c91-ae52-4602-8581-087f74889134.png.png"
+  },
+  {
+    "name": "Ltx-2",
+    "desc": "LTX-2 API 将 Lightricks 的开放权重视频系列带入生产环境，可一次性生成视频和同步音频。你可以通过文本提示词生成视频、为静态图像添加动画，或扩展现有片段；每个结果都配有匹配的唇形同步、拟音和环境声。在 Atlas Cloud 上，你可以通过一个 OpenAI 兼容密钥访问它，享受透明的按量付费定价和 Day-0 访问权限。立即开始构建。",
+    "file": "families/a94acd8a-3e80-444c-a96e-a458d7ac0ea2.png.png"
+  },
+  {
+    "name": "Nvidia Cosmos",
+    "desc": "Explore Nvidia Cosmos API on Atlas Cloud.",
+    "file": "families/4aa711fe-9e34-4752-b808-d2b2fb25836e.png.png"
+  },
+  {
+    "name": "Seedance",
+    "desc": "Seedance 1 Pro 是 ByteDance 面向电影级、多镜头创作推出的视频生成系列。它能够保持剪辑间的场景连贯性，将静态画面转化为富有表现力的动态影像，并确保帧与帧之间的细节一致。在 Atlas Cloud 上，一个 OpenAI-compatible 密钥即可连接所有 v1 Pro 接口；按秒计费和便捷的模型切换则可支持从快速原型到生产级渲染的各种工作流。",
+    "file": "families/d6317de4-ab4e-47d9-afb2-a9234d9aa030.png.png"
+  },
+  {
+    "name": "Van",
+    "desc": "Van是一款旗舰级AI视频系列，基于Wan 2.5和2.6框架构建，Van API在Atlas Cloud上统一了其完整的text-to-video和image-to-video产品线。渲染高达1080p的电影级片段，然后为快速迭代选择速度优化的2.6模型，或为大批量处理选择成本高效的2.5变体。每个模型在Day-0通过单个OpenAI兼容密钥发布，采用透明的按使用量付费定价。立即开始构建。",
+    "file": "families/3d434ac4-0bcb-4064-9110-ba7d7f990094.png.png"
+  },
+  {
+    "name": "Wan 2.5",
+    "desc": "Wan 2.5 API 可一次性生成视频和音频，使语音、音效和唇形同步完美对齐，无需额外步骤。该模型基于阿里巴巴的 Diffusion Transformer 架构构建，支持图文生成 480p 至 1080p 分辨率、5 秒或 10 秒时长的视频，即使对于中文提示词也能实现可靠的同步。在 Atlas Cloud 上通过单一密钥即可访问它以及其他 300 多个模型。",
+    "file": "families/af16bb4e-96ac-4491-b119-1e19e9ef9773.png.png"
+  },
+  {
+    "name": "Kling o3",
+    "desc": "Kling O3 是快手基于 MVL 技术打造的统一多模态视频模型，支持文本、图像、参考图和视频输入。通过首帧和尾帧引导运动，借助最多七张参考图保持人物、道具或场景的一致性，并可针对每种工作流选择 Standard 或 Pro 版本。在 Atlas Cloud 上使用该模型系列，享受透明的按量付费定价和可靠的基础设施。立即开始构建。",
+    "file": "families/ea286b45-3623-4ad2-998e-4196a6b89cab.png.png"
+  },
+  {
+    "name": "Wan",
+    "desc": "Wan API 通过一个统一密钥将阿里巴巴的开源 Wan 视频模型引入 Atlas Cloud。Wan 2.2 在视频扩散领域首创了 Mixture-of-Experts（混合专家）架构，在保持相同推理成本的同时提升了模型容量和运动控制能力。它支持文生视频、图生视频和视频生视频，具备首尾帧控制、视频扩展和画质提升（超分辨率）功能，所有这些功能均可与 300 多个模型一同访问。",
+    "file": "families/d7501d5a-58bb-4189-a942-9a6860f13406.png.png"
+  },
+  {
+    "name": "Tools",
+    "desc": "Open, advanced large-scale image generative models that power high-fidelity creation and editing with modular APIs, reproducible training, built-in safety guardrails, and elastic, production-grade inference at scale.",
+    "file": "families/940555e7-ba39-4b07-a0a4-8151a6934e7d.png.png"
+  }
+]
